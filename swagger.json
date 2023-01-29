@@ -8,7 +8,7 @@
   "host": "lesson4-cse-341.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/api-docs": {
