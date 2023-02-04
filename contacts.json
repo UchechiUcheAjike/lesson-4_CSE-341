@@ -1,0 +1,25 @@
+{
+  "contact": {
+    "firstName": "Jhaneil",
+    "lastName": "Wright",
+    "email": "jahneilwright@gmail.com",
+    "favoriteColor": "White",
+    "birthday": "5/9/1994"
+  },
+
+  "contact2": {
+    "firstName": "TG",
+    "lastName": "Nzenwa",
+    "email": "tgnzenwa@gmail.com",
+    "favoriteColor": "Black",
+    "birthday": "20/6/1993"
+  },
+
+  "contact3": {
+    "firstName": "Refilwe",
+    "lastName": "Happiness",
+    "email": "refilwesik@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "9/5/1994"
+  }
+}
