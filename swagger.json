@@ -2,13 +2,13 @@
   "swagger": "2.0",
   "info": {
     "title": "My API",
-    "description": "Contacts API",
+    "description": "Jobs API",
     "version": "1.0.0"
   },
-  "host": "lesson4-cse-341.onrender.com",
+  "host": "localhost:8080",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/api-docs": {
@@ -18,7 +18,7 @@
         "responses": {}
       }
     },
-    "/contacts/": {
+    "/jobs/": {
       "get": {
         "description": "",
         "produces": [
@@ -69,7 +69,7 @@
         }
       }
     },
-    "/contacts/{id}": {
+    "/jobs/{id}": {
       "get": {
         "description": "",
         "produces": [
